@@ -7,7 +7,7 @@ Welcome to my web development journey!
 ### Projects: No projects yet, but I'm working on some amazing ones!
 ### How to reach me:
 - Email: **dip3sh0000@gmail.com** 
-- [Connect on LinkedIn](<https://www.linkedin.com/in/dip3sh/>)
+- [Connect on LinkedIn](<https://www.linkedin.com/in/d3pesh/>)
 - ### Pronouns: dipesh ### Language & Frameworks I'm familiar with:
 - HTML5 - CSS (SASS, SCSS)
 - JavaScript (Node.js, MongoDB)
