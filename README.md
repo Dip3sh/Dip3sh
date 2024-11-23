@@ -8,6 +8,7 @@ Welcome to my web development journey!
 ### How to reach me:
 - Email: **dip3sh0000@gmail.com** 
 - [Connect on LinkedIn](<https://www.linkedin.com/in/deepesh-gurung-63333633a/>)
+- [Watch my portfolio](<https://youtu.be/D9gj8_ZdBt4>)
 ### Pronouns: dipesh
 ### Language & Frameworks I'm familiar with:
 - HTML5 - CSS (SASS, SCSS)
